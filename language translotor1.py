@@ -11,7 +11,6 @@ import gtts
 import playsound
 import tempfile
 from PIL import Image, ImageTk
-
 class ProfessionalTranslator:
     def __init__(self, root):
         self.root = root
@@ -832,3 +831,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
